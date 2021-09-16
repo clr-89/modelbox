@@ -1,0 +1,82 @@
+body {
+        font-family: 'Courier New', Courier, monospace;
+     }
+
+li {
+
+display: inline-block;
+position: relative;
+left: -40px;
+top: 8px;
+
+color: lightgray;
+
+margin-inline: 30px;
+vertical-align: baseline;
+
+
+}
+
+ul {
+
+    background-color:rgb(65, 65, 65);
+    margin-top: -22px;
+    height:  35px;
+    position: relative;
+    bottom: -15px;
+
+}
+
+.carousel {
+
+    padding-top: 0px;
+    background-color:lightgray;
+    height: 220px;
+
+}
+
+section {
+
+    text-align: center;
+
+}
+
+article {
+    display: inline-block;
+    height: 325px;
+    width: 295px;
+    background-color:lightgray;
+    margin-bottom: 80px;
+    
+
+}
+
+form{
+
+    border-top:3px solid grey;
+    left: 80px;
+
+
+}
+
+input{
+
+    display: block;
+    height: 20px;
+    width: 700px;
+    position: relative;
+    left: 170px;
+    margin-top: 10px;
+
+}
+
+textarea {
+
+    display: block;
+    height: 150px;
+    width: 700px;
+    position: relative;
+    left: 170px;
+    margin-top: 10px;
+
+}
